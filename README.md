@@ -1,1 +1,1 @@
-# Flappy-Bird-AI-
+# FlappyBird_AI using Neat Algo
